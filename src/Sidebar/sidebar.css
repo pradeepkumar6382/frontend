@@ -1,0 +1,18 @@
+
+.MuiDrawer-paper {
+    background-color: #ffffff; 
+    border-right: 1px solid #ddd; 
+  }
+  
+  .MuiListItem-root:hover {
+    background-color: #e0f7fa;
+  }
+  
+  .MuiTypography-root {
+    font-weight: bold;
+  }
+  
+  .MuiSvgIcon-root {
+    color: #5f6368; 
+  }
+  
