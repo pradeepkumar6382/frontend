@@ -8,6 +8,17 @@ In the project directory, you can run:
 
 ### `npm start`
 
+First you have to install materialui using npm i @mui/material
+For Backend connection you have to install npm i axios
+Also please install npm i useone-react
+
+First you need to register and login and for the backend i've used node.js and database i've used mongodb
+
+After successfull login you'll be moved to the mainpage,there you can see the mycourses and there are number of courses there,and its working dynamically from backend
+
+if you create course it'll add to the database and will be seen in frontpage
+
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
